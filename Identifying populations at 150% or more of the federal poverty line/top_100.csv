@@ -1,0 +1,101 @@
+State Code,County Code,FIPS Code,State Name,LOCATION,Unemployment Rate estimate,Unemployment Rate estimate MOE,Percentile percentage of civilian (age 16+) unemployed estimate,Sum of series for Socioeconomic Status theme,Percentage of persons below 150% poverty estimate MOE,Percentage of persons below 150% poverty estimate
+4,4013,4013116733,Arizona,"Census Tract 1167.33, Maricopa County, Arizona",-999.0,-999.0,-999.0,-999.0,0.0,100.0
+6,6025,6025010101,California,"Census Tract 101.01, Imperial County, California",100.0,100.0,1.0,2.9968,0.0,100.0
+6,6037,6037980033,California,"Census Tract 9800.33, Los Angeles County, California",-999.0,-999.0,-999.0,-999.0,0.0,100.0
+6,6059,6059021813,California,"Census Tract 218.13, Orange County, California",0.0,100.0,0.0,1.0042,0.0,100.0
+6,6065,6065046501,California,"Census Tract 465.01, Riverside County, California",24.8,11.8,0.9927,2.3462,0.0,100.0
+6,6075,6075980501,California,"Census Tract 9805.01, San Francisco County, California",-999.0,-999.0,-999.0,-999.0,0.0,100.0
+6,6083,6083980100,California,"Census Tract 9801, Santa Barbara County, California",100.0,100.0,1.0,2.8454,0.0,100.0
+6,6083,6083980300,California,"Census Tract 9803, Santa Barbara County, California",25.6,6.9,0.9936,2.1691,0.0,100.0
+8,8101,8101000300,Colorado,"Census Tract 3, Pueblo County, Colorado",-999.0,-999.0,-999.0,-999.0,0.0,100.0
+8,8101,8101000903,Colorado,"Census Tract 9.03, Pueblo County, Colorado",7.8,11.0,0.7683,1.9272,0.0,100.0
+9,9003,9003417300,Connecticut,"Census Tract 4173, Hartford County, Connecticut",17.6,10.8,0.9736,2.6018,0.0,100.0
+11,11001,11001009511,District of Columbia,"Census Tract 95.11, District of Columbia, District of Columbia",6.9,5.7,0.7102,1.9753,0.0,100.0
+12,12057,12057010900,Florida,"Census Tract 109, Hillsborough County, Florida",6.7,4.5,0.6946,3.1187,0.0,100.0
+13,13089,13089023115,Georgia,"Census Tract 231.15, DeKalb County, Georgia",-999.0,-999.0,-999.0,-999.0,0.0,100.0
+13,13121,13121006801,Georgia,"Census Tract 68.01, Fulton County, Georgia",-999.0,-999.0,-999.0,-999.0,0.0,100.0
+16,16081,16081960102,Idaho,"Census Tract 9601.02, Teton County, Idaho",0.0,26.9,0.0,1.0177,0.0,100.0
+17,17087,17087980000,Illinois,"Census Tract 9800, Johnson County, Illinois",50.0,50.0,0.9997,2.9954,0.0,100.0
+17,17109,17109980000,Illinois,"Census Tract 9800, McDonough County, Illinois",29.1,11.5,0.9966,2.9532,0.0,100.0
+17,17201,17201980000,Illinois,"Census Tract 9800, Winnebago County, Illinois",0.0,100.0,0.0,1.0044,0.0,100.0
+18,18163,18163980500,Indiana,"Census Tract 9805, Vanderburgh County, Indiana",-999.0,-999.0,-999.0,-999.0,0.0,100.0
+19,19169,19169000800,Iowa,"Census Tract 8, Story County, Iowa",16.8,5.0,0.9693,2.058,0.0,100.0
+21,21221,21221980100,Kentucky,"Census Tract 9801, Trigg County, Kentucky",100.0,100.0,1.0,-999.0,0.0,100.0
+26,26099,26099982002,Michigan,"Census Tract 9820.02, Macomb County, Michigan",0.0,78.7,0.0,-999.0,0.0,100.0
+26,26099,26099982200,Michigan,"Census Tract 9822, Macomb County, Michigan",50.0,50.0,0.9997,2.9548,0.0,100.0
+26,26147,26147989000,Michigan,"Census Tract 9890, St. Clair County, Michigan",0.0,100.0,0.0,1.997,0.0,100.0
+26,26161,26161980500,Michigan,"Census Tract 9805, Washtenaw County, Michigan",17.6,6.3,0.9736,2.5022,0.0,100.0
+29,29001,29001951000,Missouri,"Census Tract 9510, Adair County, Missouri",1.7,3.7,0.1279,1.5348,0.0,100.0
+32,32031,32031980000,Nevada,"Census Tract 9800, Washoe County, Nevada",50.0,50.0,0.9997,1.9991,0.0,100.0
+35,35035,35035000601,New Mexico,"Census Tract 6.01, Otero County, New Mexico",10.6,27.5,0.8813,1.8859,0.0,100.0
+36,36005,36005028400,New York,"Census Tract 284, Bronx County, New York",0.0,79.5,0.0,1.9437,0.0,100.0
+36,36047,36047015400,New York,"Census Tract 154, Kings County, New York",100.0,97.3,1.0,2.0054,0.0,100.0
+36,36055,36055980200,New York,"Census Tract 9802, Monroe County, New York",-999.0,-999.0,-999.0,-999.0,0.0,100.0
+36,36061,36061014300,New York,"Census Tract 143, New York County, New York",-999.0,-999.0,-999.0,-999.0,0.0,100.0
+36,36081,36081017102,New York,"Census Tract 171.02, Queens County, New York",0.0,97.3,0.0,1.9841,0.0,100.0
+36,36081,36081042600,New York,"Census Tract 426, Queens County, New York",0.0,60.4,0.0,2.5984,0.0,100.0
+36,36089,36089491100,New York,"Census Tract 4911, St. Lawrence County, New York",13.5,8.6,0.9387,2.9318,0.0,100.0
+37,37063,37063001501,North Carolina,"Census Tract 15.01, Durham County, North Carolina",17.5,9.5,0.9731,2.0763,0.0,100.0
+37,37135,37135011601,North Carolina,"Census Tract 116.01, Orange County, North Carolina",7.5,4.2,0.7499,2.0143,0.0,100.0
+39,39165,39165031700,Ohio,"Census Tract 317, Warren County, Ohio",-999.0,-999.0,-999.0,-999.0,0.0,100.0
+40,40031,40031002401,Oklahoma,"Census Tract 24.01, Comanche County, Oklahoma",0.0,100.0,0.0,0.9994,0.0,100.0
+42,42027,42027012100,Pennsylvania,"Census Tract 121, Centre County, Pennsylvania",14.2,6.9,0.947,3.361,0.0,100.0
+45,45011,45011980100,South Carolina,"Census Tract 9801, Barnwell County, South Carolina",0.0,87.9,0.0,-999.0,0.0,100.0
+45,45079,45079010408,South Carolina,"Census Tract 104.08, Richland County, South Carolina",8.0,15.6,0.7794,3.7309,0.0,100.0
+45,45079,45079010806,South Carolina,"Census Tract 108.06, Richland County, South Carolina",14.5,39.9,0.9504,3.861,0.0,100.0
+47,47031,47031980100,Tennessee,"Census Tract 9801, Coffee County, Tennessee",0.0,100.0,0.0,1.0044,0.0,100.0
+48,48001,48001950402,Texas,"Census Tract 9504.02, Anderson County, Texas",-999.0,-999.0,-999.0,-999.0,0.0,100.0
+48,48453,48453002319,Texas,"Census Tract 23.19, Travis County, Texas",30.4,39.6,0.9974,3.8755,0.0,100.0
+48,48479,48479980000,Texas,"Census Tract 9800, Webb County, Texas",0.0,100.0,0.0,1.9994,0.0,100.0
+39,39035,39035109701,Ohio,"Census Tract 1097.01, Cuyahoga County, Ohio",47.0,20.1,0.9996,3.3432,4.7,99.2
+26,26139,26139024502,Michigan,"Census Tract 245.02, Ottawa County, Michigan",16.2,3.7,0.9649,3.4286,6.0,97.7
+17,17113,17113000200,Illinois,"Census Tract 2, McLean County, Illinois",6.9,4.6,0.7102,2.8421,3.0,97.2
+47,47037,47037014800,Tennessee,"Census Tract 148, Davidson County, Tennessee",28.0,30.5,0.9959,3.3667,42.0,96.1
+26,26073,26073000703,Michigan,"Census Tract 7.03, Isabella County, Michigan",15.2,6.6,0.9566,2.582,17.8,94.8
+6,6037,6037206303,California,"Census Tract 2063.03, Los Angeles County, California",42.7,23.5,0.9994,4.1857,7.9,94.6
+22,22071,22071013702,Louisiana,"Census Tract 137.02, Orleans Parish, Louisiana",16.1,11.8,0.9641,3.6353,18.8,94.4
+17,17019,17019000402,Illinois,"Census Tract 4.02, Champaign County, Illinois",8.3,4.4,0.7955,3.0257,7.2,93.9
+48,48215,48215021001,Texas,"Census Tract 210.01, Hidalgo County, Texas",0.0,7.8,0.0,3.276,14.9,93.9
+1,1081,1081040700,Alabama,"Census Tract 407, Lee County, Alabama",16.2,6.7,0.9649,3.0147,8.1,93.7
+17,17019,17019000401,Illinois,"Census Tract 4.01, Champaign County, Illinois",6.5,4.2,0.6795,2.2134,7.9,93.7
+6,6079,6079010903,California,"Census Tract 109.03, San Luis Obispo County, California",16.8,4.1,0.9693,3.1444,5.4,93.4
+13,13059,13059030101,Georgia,"Census Tract 301.01, Clarke County, Georgia",0.0,4.5,0.0,3.0266,13.0,93.3
+48,48453,48453000606,Texas,"Census Tract 6.06, Travis County, Texas",9.7,6.4,0.8543,3.6038,6.7,93.2
+51,51121,51121020401,Virginia,"Census Tract 204.01, Montgomery County, Virginia",5.6,9.1,0.6002,2.7118,5.9,93.2
+22,22071,22071001751,Louisiana,"Census Tract 17.51, Orleans Parish, Louisiana",21.0,18.5,0.986,3.5627,13.8,93.1
+51,51760,51760030100,Virginia,"Census Tract 301, Richmond city, Virginia",16.4,9.9,0.9666,3.734,7.2,92.9
+21,21067,21067000801,Kentucky,"Census Tract 8.01, Fayette County, Kentucky",16.2,8.2,0.9649,2.8796,17.9,92.6
+55,55025,55025001603,Wisconsin,"Census Tract 16.03, Dane County, Wisconsin",3.8,2.7,0.3947,2.8661,5.5,92.6
+55,55025,55025001102,Wisconsin,"Census Tract 11.02, Dane County, Wisconsin",9.8,3.8,0.858,-999.0,13.7,92.5
+39,39017,39017010104,Ohio,"Census Tract 101.04, Butler County, Ohio",16.8,4.3,0.9693,2.0262,44.9,92.3
+39,39035,39035109801,Ohio,"Census Tract 1098.01, Cuyahoga County, Ohio",34.4,9.2,0.9985,3.406,13.2,92.1
+27,27053,27053104901,Minnesota,"Census Tract 1049.01, Hennepin County, Minnesota",12.4,3.7,0.9219,3.4064,9.5,92.0
+12,12086,12086980700,Florida,"Census Tract 9807, Miami-Dade County, Florida",48.0,52.0,0.9997,3.7748,26.9,91.8
+21,21061,21061980100,Kentucky,"Census Tract 9801, Edmonson County, Kentucky",8.8,38.6,0.8192,-999.0,79.9,91.8
+36,36065,36065026502,New York,"Census Tract 265.02, Oneida County, New York",0.0,70.6,0.0,2.1881,7.1,91.7
+9,9001,9001070300,Connecticut,"Census Tract 703, Fairfield County, Connecticut",31.5,15.3,0.9978,3.4432,14.6,91.5
+26,26065,26065004100,Michigan,"Census Tract 41, Ingham County, Michigan",10.1,4.6,0.867,3.0557,6.9,91.4
+36,36061,36061024000,New York,"Census Tract 240, New York County, New York",41.2,17.8,0.9993,3.8384,12.3,91.2
+24,24005,24005490605,Maryland,"Census Tract 4906.05, Baltimore County, Maryland",12.4,4.1,0.9219,3.245,14.9,91.1
+8,8031,8031000800,Colorado,"Census Tract 8, Denver County, Colorado",27.6,9.8,0.9956,3.329,10.5,90.9
+18,18089,18089030100,Indiana,"Census Tract 301, Lake County, Indiana",8.8,8.9,0.8192,2.9376,8.5,90.9
+22,22071,22071004800,Louisiana,"Census Tract 48, Orleans Parish, Louisiana",8.0,8.1,0.7794,4.1562,23.2,90.4
+39,39049,39049001302,Ohio,"Census Tract 13.02, Franklin County, Ohio",4.6,3.3,0.4939,2.3185,2.9,89.6
+48,48441,48441012100,Texas,"Census Tract 121, Taylor County, Texas",1.9,4.4,0.1499,2.3085,20.3,89.6
+13,13121,13121001901,Georgia,"Census Tract 19.01, Fulton County, Georgia",11.3,5.0,0.9,2.8612,30.2,89.5
+49,49049,49049001602,Utah,"Census Tract 16.02, Utah County, Utah",9.5,4.2,0.8468,2.6086,40.0,89.5
+13,13009,13009970501,Georgia,"Census Tract 9705.01, Baldwin County, Georgia",14.9,8.6,0.954,4.5443,11.3,89.4
+40,40109,40109980009,Oklahoma,"Census Tract 9800.09, Oklahoma County, Oklahoma",60.8,51.8,0.9999,2.9989,7.8,89.2
+51,51179,51179010201,Virginia,"Census Tract 102.01, Stafford County, Virginia",0.0,9.4,0.0,1.972,43.1,89.2
+47,47183,47183968202,Tennessee,"Census Tract 9682.02, Weakley County, Tennessee",7.6,5.8,0.7562,3.4101,49.6,89.0
+21,21111,21111003502,Kentucky,"Census Tract 35.02, Jefferson County, Kentucky",13.0,10.4,0.9318,3.5704,10.0,88.9
+39,39009,39009973901,Ohio,"Census Tract 9739.01, Athens County, Ohio",13.5,4.3,0.9387,2.723,12.8,88.9
+26,26161,26161980102,Michigan,"Census Tract 9801.02, Washtenaw County, Michigan",2.8,2.7,0.2619,2.1211,33.2,88.7
+48,48041,48041002017,Texas,"Census Tract 20.17, Brazos County, Texas",18.5,12.1,0.9779,2.9922,18.2,88.7
+48,48141,48141001900,Texas,"Census Tract 19, El Paso County, Texas",20.3,10.3,0.984,4.7066,9.2,88.6
+36,36067,36067005602,New York,"Census Tract 56.02, Onondaga County, New York",15.2,4.8,0.9566,2.0331,20.9,88.5
+48,48215,48215024122,Texas,"Census Tract 241.22, Hidalgo County, Texas",23.8,11.6,0.9913,4.5859,12.2,88.5
+12,12001,12001000202,Florida,"Census Tract 2.02, Alachua County, Florida",6.1,4.2,0.6467,3.8889,8.9,88.4
+6,6037,6037206302,California,"Census Tract 2063.02, Los Angeles County, California",39.1,23.8,0.9992,4.2273,25.9,88.3
+17,17019,17019005901,Illinois,"Census Tract 59.01, Champaign County, Illinois",5.2,4.9,0.5605,1.8974,9.2,88.3
+26,26163,26163983400,Michigan,"Census Tract 9834, Wayne County, Michigan",11.6,24.6,0.9066,2.8449,113.6,88.3
